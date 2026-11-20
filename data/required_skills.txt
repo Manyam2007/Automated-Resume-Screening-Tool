@@ -1,0 +1,10 @@
+
+python
+java
+sql
+html
+css
+machine learning
+pandas
+numpy
+data analysis

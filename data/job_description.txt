@@ -1,0 +1,26 @@
+
+Job Title: Python Developer - Fresher
+
+We are looking for a Python Developer with basic programming and software development knowledge.
+
+Required Skills:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- Machine Learning
+- Pandas
+- NumPy
+- Data Analysis
+
+Responsibilities:
+- Develop Python applications.
+- Write and maintain code.
+- Work with databases.
+- Analyse and process data.
+- Work with machine learning projects.
+
+Qualification:
+- B.Tech or B.E. in Computer Science or related field.
+- Freshers can apply.
